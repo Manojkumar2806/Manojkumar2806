@@ -1,5 +1,5 @@
-# 💫 About Me:
- “🔭Bridging web development and data science—driven to create impactful solutions.”<br> “🌱 I’m currently learning modern web frameworks and data processing techniques.”<br> “💬 Ask me about web development frameworks and data analysis techniques<br>⚡ Fun fact: I think I’ve found the secret to life: it’s just like coding—trial and error!
+# 💫 About Me: Manoj Kumar Pendem 👋
+🔭Passionate about bridging `web development` and `data science`, driven to create impactful solutions. <br> 🌱 I’m currently learning modern `web frameworks` and `data processing techniques`.<br> 💬 Ask me about `web development frameworks` and `data analysis techniques`<br>⚡ `Fun fact`: I think I’ve found the secret to life: it’s just like coding—trial and error!
 
 
 ## 🌐 Socials:
