@@ -22,3 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=Manojkumar2806&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1>My Badges:</h1>
+<img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Holopin Badge" width="150" height="150">
+
+
