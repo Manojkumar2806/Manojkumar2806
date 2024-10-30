@@ -23,6 +23,12 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1>My Badges:</h1>
+<div class="row">
 <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Holopin Badge" width="150" height="150">
+<img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-tea-0-0-0.webp" alt="Holopin Badge" width="150" height="150">
+<img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tea-0-0-0.webp" alt="Holopin Badge" width="150" height="150">
+<img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tea-0-0-0.webp" alt="Holopin Badge" width="150" height="150">
+<img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tea-0-0-0.webp" alt="Holopin Badge" width="150" height="150">
+</div>
 
 
