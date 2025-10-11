@@ -6,7 +6,8 @@
 
 <div align="center">
   
-  [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0074D9,100:7FDBFF&height=400&section=header&text=Manoj%20Kumar%20Pendem&fontSize=55&fontColor=ffffff&fontAlignY=45&animation=scaleIn&desc=Python%20Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20UI%2FUX%20Designer%20%7C%20Data%20Analyst&descSize=22&descAlignY=60&stroke=00FFFF&strokeWidth=2)](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0074D9,100:7FDBFF&height=400&section=header&text=Manoj%20Kumar%20Pendem&fontSize=55&fontColor=ffffff&fontAlignY=45&animation=scaleIn&desc=Python%20Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20UI%2FUX%20Designer%20%7C%20Data%20Analyst&descSize=30&descAlignY=70&stroke=00FFFF&strokeWidth=4)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0074D9,100:7FDBFF&height=400&section=header&text=Manoj%20Kumar%20Pendem&fontSize=55&fontColor=ffffff&fontAlignY=45&animation=scaleIn&desc=~%20Syntax%20of%20success:%20consistency%20%2B%20hard%20work;&descSize=30&descAlignY=70&stroke=00FFFF&strokeWidth=4)](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0074D9,100:7FDBFF&height=400&section=header&text=Manoj%20Kumar%20Pendem&fontSize=55&fontColor=ffffff&fontAlignY=45&animation=scaleIn&desc=~%20Syntax%20of%20success:%20consistency%20%2B%20hard%20work;&descSize=30&descAlignY=70&stroke=00FFFF&strokeWidth=4)
+
 </div>
 
 <div align="center">
