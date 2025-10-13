@@ -40,7 +40,7 @@ class AboutMe:
 
     def __init__(self):
 
-        self.name = "🧑‍💻 Manoj Kumar Pendem"
+        self.name = "Manoj Kumar Pendem"
         self.stack = "MERN | Python FSD | GenAI RAG LLM"
         self.roles = [
              "Web & AI Developer", "ML Model Fine-Tuning",
