@@ -145,8 +145,8 @@ me = AboutMe()
  <br>
 <h1>⚡Achievements & Badges ⚡</h1>
 <div class="row" align="center">
-<a href="https://dev.to/manojkumar18?"><img width="150" height="150" src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F351%2FAssemblyAI_Badges-04.png"/></a>
 <a href="https://credsverse.com/credentials/d5a39f41-e576-462b-bd73-d7fa1441b332"><img width="150" height="150" alt="d5a39f41-e576-462b-bd73-d7fa1441b332 (1)" src="https://github.com/user-attachments/assets/4ed81f68-3156-4886-b841-1e218866c58d" /></a> 
+<a href="https://dev.to/manojkumar18?"><img style="background-color:white" width="150" height="150" src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F351%2FAssemblyAI_Badges-04.png"/></a>
 <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-tea-0-0-0.webp" alt="Holopin Badge" width="150" height="150">
 <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tea-0-0-0.webp" alt="Holopin Badge" width="150" height="150">
 <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tea-0-0-0.webp" alt="Holopin Badge" width="150" height="150">
