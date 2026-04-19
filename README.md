@@ -143,18 +143,14 @@ me = AboutMe()
 
 
  <br>
-<h1>⚡Achievements & Badges ⚡</h1>
-<div class="row" align="center">
-<a href="https://www.credly.com/badges/9f32ab66-9d2b-41a6-aed8-55b8f34dd5fc/public_url"><img width="150" height="150" alt="2026-microsoft-student-ambassador (1)" src="https://github.com/user-attachments/assets/9bd77e83-2295-482b-b5ed-4b83b96a70ff" /></a>
-<a href="https://credsverse.com/credentials/d5a39f41-e576-462b-bd73-d7fa1441b332"><img width="150" height="150" alt="d5a39f41-e576-462b-bd73-d7fa1441b332 (1)" src="https://github.com/user-attachments/assets/4ed81f68-3156-4886-b841-1e218866c58d" /></a> 
-<a href="https://dev.to/manojkumar18?"><img style="background-color:white" width="150" height="150" src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F351%2FAssemblyAI_Badges-04.png"/></a>
-<img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-tea-0-0-0.webp" alt="Holopin Badge" width="150" height="150">
-<img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tea-0-0-0.webp" alt="Holopin Badge" width="150" height="150">
-<img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tea-0-0-0.webp" alt="Holopin Badge" width="150" height="150">
-<img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tea-0-0-0.webp" alt="Holopin Badge" width="150" height="150">
-<a href="https://credsverse.com/credentials/3399807f-f7f4-494f-a6bf-700178777df7"><img width="150" height="150" alt="3399807f-f7f4-494f-a6bf-700178777df7" src="https://github.com/user-attachments/assets/a62a891a-bf7b-4080-8e84-7c1af7c2ebd5" /> </a>
 
-</div>
+
+## 🏅 Achievements & Badges 🏅
+
+| Badge | Badge | Badge | Badge |
+|------|------|------|------|
+| <div align="center"><a href="https://www.credly.com/badges/9f32ab66-9d2b-41a6-aed8-55b8f34dd5fc/public_url"><img src="https://github.com/user-attachments/assets/9bd77e83-2295-482b-b5ed-4b83b96a70ff" width="100"></a><br/>**Microsoft Student Ambassador**</div> | <div align="center"><a href="https://credsverse.com/credentials/d5a39f41-e576-462b-bd73-d7fa1441b332"><img src="https://github.com/user-attachments/assets/4ed81f68-3156-4886-b841-1e218866c58d" width="100"></a><br/>**Credsverse Certification**</div> | <div align="center"><a href="https://dev.to/manojkumar18?"><img src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F351%2FAssemblyAI_Badges-04.png" width="100"></a><br/>**Dev.to Badge**</div> | <div align="center"><img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-tea-0-0-0.webp" width="100"><br/>**Holopin Level 1**</div> |
+| <div align="center"><img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tea-0-0-0.webp" width="100"><br/>**Holopin Level 2**</div> | <div align="center"><img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tea-0-0-0.webp" width="100"><br/>**Holopin Level 3**</div> | <div align="center"><img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tea-0-0-0.webp" width="100"><br/>**Holopin Level 4**</div> | <div align="center"><a href="https://credsverse.com/credentials/3399807f-f7f4-494f-a6bf-700178777df7"><img src="https://github.com/user-attachments/assets/a62a891a-bf7b-4080-8e84-7c1af7c2ebd5" width="100"></a><br/>**Credsverse Achievement**</div> |
 
 
 <div align="center">
